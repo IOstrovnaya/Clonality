@@ -13,8 +13,7 @@ Description: Statistical tests for clonality versus independence of
         copy number profiles
 License: GPL-3
 LazyLoad: yes
-biocViews: CopyNumber, Classification, aCGH, Mutations, Diagnosis,
-        metastasis
+biocViews: SomaticMutation, Classification, aCGH, CopyNumberVariation
 git_url: https://git.bioconductor.org/packages/Clonality
 git_branch: master
 git_last_commit: 788755f
